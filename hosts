@@ -13,6 +13,10 @@
 127.0.0.1 www.google.com
 127.0.0.1 google.com.hk
 127.0.0.1 www.google.com.hk
+127.0.0.1 clients4.google.com
+127.0.0.1 optimizationguide-pa.googleapis.com
+127.0.0.1 content-autofill.googleapis.com
+127.0.0.1 translate.googleapis.com
 
 ### claude
 127.0.0.1 support.anthropic.com
@@ -28,6 +32,12 @@
 ### Copilot
 127.0.0.1 copilot.microsoft.com
 
+# reddit
+127.0.0.1 www.redditstatic.com
+
+# X
+127.0.0.1 static.ads-twitter.com
+
 ### Cracked Apps
 127.0.0.1 www.sublimetext.com
 
@@ -36,3 +46,10 @@
 127.0.0.1 desktop.parallels.com
 
 127.0.0.1 public-apis.cleanmymac.com
+
+127.0.0.1 proxymin.io
+127.0.0.1 in.appcenter.ms
+
+# Paste
+127.0.0.1 app-analytics-services.com
+127.0.0.1 api.mixpanel.com
