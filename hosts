@@ -17,6 +17,7 @@
 127.0.0.1 optimizationguide-pa.googleapis.com
 127.0.0.1 content-autofill.googleapis.com
 127.0.0.1 translate.googleapis.com
+127.0.0.1 mtalk.google.com
 
 ### claude
 127.0.0.1 support.anthropic.com
