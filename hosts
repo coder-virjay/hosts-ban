@@ -1,0 +1,38 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+### google
+127.0.0.1 google.com
+127.0.0.1 www.google.com
+127.0.0.1 google.com.hk
+127.0.0.1 www.google.com.hk
+
+### claude
+127.0.0.1 support.anthropic.com
+127.0.0.1 statsig.anthropic.com
+127.0.0.1 a-cdn.anthropic.com
+127.0.0.1 claude.ai
+127.0.0.1 api.claude.ai
+127.0.0.1 downloads.intercomcdn.com
+127.0.0.1 js.intercomcdn.com
+127.0.0.1 static.intercomassets.com
+127.0.0.1 widget.intercom.io
+
+### Copilot
+127.0.0.1 copilot.microsoft.com
+
+### Cracked Apps
+127.0.0.1 www.sublimetext.com
+
+127.0.0.1 download.parallels.com
+127.0.0.1 update.parallels.com
+127.0.0.1 desktop.parallels.com
+
+127.0.0.1 public-apis.cleanmymac.com
