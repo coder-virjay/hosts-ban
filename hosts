@@ -9,23 +9,23 @@
 ::1             localhost
 
 ### google
-127.0.0.1 google.com
-127.0.0.1 www.google.com
-127.0.0.1 google.com.hk
-127.0.0.1 www.google.com.hk
 127.0.0.1 clients4.google.com
-127.0.0.1 optimizationguide-pa.googleapis.com
 127.0.0.1 content-autofill.googleapis.com
+127.0.0.1 google.com
+127.0.0.1 google.com.hk
+127.0.0.1 optimizationguide-pa.googleapis.com
 127.0.0.1 translate.googleapis.com
+127.0.0.1 www.google.com
+127.0.0.1 www.google.com.hk
 
 ### claude
-127.0.0.1 support.anthropic.com
-127.0.0.1 statsig.anthropic.com
 127.0.0.1 a-cdn.anthropic.com
-127.0.0.1 claude.ai
 127.0.0.1 api.claude.ai
+127.0.0.1 claude.ai
 127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 js.intercomcdn.com
+127.0.0.1 support.anthropic.com
+127.0.0.1 statsig.anthropic.com
 127.0.0.1 static.intercomassets.com
 127.0.0.1 widget.intercom.io
 
@@ -41,15 +41,15 @@
 ### Cracked Apps
 127.0.0.1 www.sublimetext.com
 
+127.0.0.1 desktop.parallels.com
 127.0.0.1 download.parallels.com
 127.0.0.1 update.parallels.com
-127.0.0.1 desktop.parallels.com
 
 127.0.0.1 public-apis.cleanmymac.com
 
-127.0.0.1 proxymin.io
 127.0.0.1 in.appcenter.ms
+127.0.0.1 proxymin.io
 
 # Paste
-127.0.0.1 app-analytics-services.com
 127.0.0.1 api.mixpanel.com
+127.0.0.1 app-analytics-services.com
